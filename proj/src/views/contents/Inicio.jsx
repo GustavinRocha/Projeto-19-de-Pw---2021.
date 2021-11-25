@@ -2,9 +2,9 @@ import React from "react"
 
 const Inicio = props => (
     <div>
-        <h1>Projeto PWII</h1>
+        <h1>Projeto 19 de Pw </h1>
         <br />
-        <h2>Matrix</h2> 
+        <h2>Edição de Vídeo</h2> 
     </div>
 )
 
